@@ -4,29 +4,31 @@ body{
   margin: 0px;
   background:black;
 }
-ul{
 
+ul{
   background-color:#B32114;
   margin: 0px;
   padding-right: : 100%;
   padding-bottom: 0px;
   }
-  li.inicio{
+li.inicio{
     margin-left: 16%;
   }
+
 li{
 display: inline-block;
 padding: 20px;
 list-style: none;
 margin-left: 5px;
 }
+
 a{
   color: white;
   text-decoration:underline;
   padding: 10px;
   font-weight: bold;
-
 }
+
 #contenedor{
   display: inline-block;
   margin-left: 21%;
@@ -42,11 +44,11 @@ a{
 }
 
 img{
-
     width: 200px;
     height: 180px;
     filter: grayscale(100%);
 }
+
 span{
   position: absolute;
   color: rgba(255, 251, 250, 0.84);
@@ -60,12 +62,15 @@ span{
   /*.caja-foto:first-child{
     margin-left: 21%;
   }*/
-  .botones{
+
+.botones{
     text-align: center;
   }
-  .noticias{
+
+.noticias{
     margin-left: 21%;
   }
+
 .noticias div{
   display: inline-block;
   color: white;
@@ -74,7 +79,8 @@ span{
   float: left;
   text-align: justify;
 }
-  .botones .link{
+
+.botones .link{
     display: inline-block;
     padding-bottom: 20px;
     padding-top: 2px;
@@ -86,14 +92,9 @@ span{
     height: 33px;
     height: 1px;
     background-color: #B32114;
-        }
+  }
+  
 .etiqueta{
     color: white;
     text-decoration: none;
-}
-
-
-
-
-
 }
